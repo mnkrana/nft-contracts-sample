@@ -64,7 +64,18 @@ yarn hardhat deploy --network puppy
 
 ### Puppynet
 
-- Contract Address : 0xDB929853F31f9cfccF753A2Cec27c6A37c9D8bFa
-- https://puppyscan.shib.io/address/0xDB929853F31f9cfccF753A2Cec27c6A37c9D8bFa
+- NFT Contract Address : 0xDB929853F31f9cfccF753A2Cec27c6A37c9D8bFa
+
+  - https://puppyscan.shib.io/address/0xDB929853F31f9cfccF753A2Cec27c6A37c9D8bFa
+
 - Check all minted tokens here
-- https://puppyscan.shib.io/token/0xDB929853F31f9cfccF753A2Cec27c6A37c9D8bFa
+
+  - https://puppyscan.shib.io/token/0xDB929853F31f9cfccF753A2Cec27c6A37c9D8bFa
+
+- Faucet to get BONEs to buy NFTs
+
+  - https://shibarium.shib.io/faucet
+
+- Market Contract Address : 0x25e3E139F9b6f52b91023566c981b007E2446518
+
+  - https://puppyscan.shib.io/address/0x25e3E139F9b6f52b91023566c981b007E2446518
