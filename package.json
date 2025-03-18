@@ -1,0 +1,12 @@
+{
+  "name": "nft-contracts-sample",
+  "version": "1.0.0",
+  "description": "sample contracts for buying and minting NFTs",
+  "main": "index.js",
+  "repository": "git@github.com:mnkrana/nft-contracts-sample.git",
+  "author": "Mayank <mnk.rana@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.22.19"
+  }
+}
