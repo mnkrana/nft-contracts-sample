@@ -1,0 +1,11 @@
+{
+   "name":"Sora",
+   "description":"This is a Sora",
+   "image":"ipfs://QmWQdK2rhBFn3i2TwWCuzTsx2au4mvoF8TKBT5seo3K73p/Sci-Fi-1.jpg",
+   "attributes":[
+      {
+         "trait_type":"Art",
+         "value":"sci fi"
+      }
+   ]
+}

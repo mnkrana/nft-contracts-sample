@@ -1,0 +1,11 @@
+{
+   "name":"Tess",
+   "description":"This is a Tess",
+   "image":"ipfs://QmWQdK2rhBFn3i2TwWCuzTsx2au4mvoF8TKBT5seo3K73p/Oil-Painting-1.jpg",
+   "attributes":[
+      {
+         "trait_type":"Art",
+         "value":"oil painting"
+      }
+   ]
+}

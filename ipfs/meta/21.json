@@ -1,0 +1,11 @@
+{
+   "name":"Opal",
+   "description":"This is a Opal",
+   "image":"ipfs://QmWQdK2rhBFn3i2TwWCuzTsx2au4mvoF8TKBT5seo3K73p/Oil-Painting-3.jpg",
+   "attributes":[
+      {
+         "trait_type":"Art",
+         "value":"oil painting"
+      }
+   ]
+}

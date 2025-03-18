@@ -1,0 +1,11 @@
+{
+   "name":"Mina",
+   "description":"This is a Mina",
+   "image":"ipfs://QmWQdK2rhBFn3i2TwWCuzTsx2au4mvoF8TKBT5seo3K73p/Realism-6.jpg",
+   "attributes":[
+      {
+         "trait_type":"Art",
+         "value":"realism"
+      }
+   ]
+}

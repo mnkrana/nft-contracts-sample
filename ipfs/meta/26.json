@@ -1,0 +1,11 @@
+{
+   "name":"Lumi",
+   "description":"This is a Lumi",
+   "image":"ipfs://QmWQdK2rhBFn3i2TwWCuzTsx2au4mvoF8TKBT5seo3K73p/Realism-2.jpg",
+   "attributes":[
+      {
+         "trait_type":"Art",
+         "value":"realism"
+      }
+   ]
+}

@@ -1,0 +1,11 @@
+{
+   "name":"Juno",
+   "description":"This is a Juno",
+   "image":"ipfs://QmWQdK2rhBFn3i2TwWCuzTsx2au4mvoF8TKBT5seo3K73p/Digital-Painting-3.jpg",
+   "attributes":[
+      {
+         "trait_type":"Art",
+         "value":"digital painting"
+      }
+   ]
+}

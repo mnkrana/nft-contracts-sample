@@ -1,0 +1,11 @@
+{
+   "name":"Lyra",
+   "description":"This is a Lyra",
+   "image":"ipfs://QmWQdK2rhBFn3i2TwWCuzTsx2au4mvoF8TKBT5seo3K73p/Digital-Painting-1.jpg",
+   "attributes":[
+      {
+         "trait_type":"Art",
+         "value":"digital painting"
+      }
+   ]
+}

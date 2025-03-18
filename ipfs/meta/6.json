@@ -1,0 +1,11 @@
+{
+   "name":"Vera",
+   "description":"This is a Vera",
+   "image":"ipfs://QmWQdK2rhBFn3i2TwWCuzTsx2au4mvoF8TKBT5seo3K73p/Black_and_White-6.jpg",
+   "attributes":[
+      {
+         "trait_type":"Art",
+         "value":"black and white"
+      }
+   ]
+}

@@ -1,0 +1,11 @@
+{
+   "name":"Nia",
+   "description":"This is a Nia",
+   "image":"ipfs://QmWQdK2rhBFn3i2TwWCuzTsx2au4mvoF8TKBT5seo3K73p/Digital-Painting-7.jpg",
+   "attributes":[
+      {
+         "trait_type":"Art",
+         "value":"digital painting"
+      }
+   ]
+}

@@ -1,0 +1,11 @@
+{
+   "name":"Cleo",
+   "description":"This is a Cleo",
+   "image":"ipfs://QmWQdK2rhBFn3i2TwWCuzTsx2au4mvoF8TKBT5seo3K73p/Realism-7.jpg",
+   "attributes":[
+      {
+         "trait_type":"Art",
+         "value":"realism"
+      }
+   ]
+}

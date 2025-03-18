@@ -1,0 +1,11 @@
+{
+   "name":"Luna",
+   "description":"This is a Luna",
+   "image":"ipfs://QmWQdK2rhBFn3i2TwWCuzTsx2au4mvoF8TKBT5seo3K73p/Black_and_White-1.jpg",
+   "attributes":[
+      {
+         "trait_type":"Art",
+         "value":"black and white"
+      }
+   ]
+}

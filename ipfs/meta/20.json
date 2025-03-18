@@ -1,0 +1,11 @@
+{
+   "name":"Eve",
+   "description":"This is a Eve",
+   "image":"ipfs://QmWQdK2rhBFn3i2TwWCuzTsx2au4mvoF8TKBT5seo3K73p/Oil-Painting-2.jpg",
+   "attributes":[
+      {
+         "trait_type":"Art",
+         "value":"oil painting"
+      }
+   ]
+}

@@ -1,0 +1,11 @@
+{
+   "name":"Dove",
+   "description":"This is a Dove",
+   "image":"ipfs://QmWQdK2rhBFn3i2TwWCuzTsx2au4mvoF8TKBT5seo3K73p/Realism-4.jpg",
+   "attributes":[
+      {
+         "trait_type":"Art",
+         "value":"realism"
+      }
+   ]
+}

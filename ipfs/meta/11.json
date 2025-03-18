@@ -1,0 +1,11 @@
+{
+   "name":"Skye",
+   "description":"This is a Skye",
+   "image":"ipfs://QmWQdK2rhBFn3i2TwWCuzTsx2au4mvoF8TKBT5seo3K73p/Digital-Painting-5.jpg",
+   "attributes":[
+      {
+         "trait_type":"Art",
+         "value":"digital painting"
+      }
+   ]
+}

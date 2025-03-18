@@ -1,0 +1,11 @@
+{
+   "name":"Blythe",
+   "description":"This is a Blythe",
+   "image":"ipfs://QmWQdK2rhBFn3i2TwWCuzTsx2au4mvoF8TKBT5seo3K73p/Oil-Painting-4.jpg",
+   "attributes":[
+      {
+         "trait_type":"Art",
+         "value":"oil painting"
+      }
+   ]
+}

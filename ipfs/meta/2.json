@@ -1,0 +1,11 @@
+{
+   "name":"Nova",
+   "description":"This is a Nova",
+   "image":"ipfs://QmWQdK2rhBFn3i2TwWCuzTsx2au4mvoF8TKBT5seo3K73p/Black_and_White-2.jpg",
+   "attributes":[
+      {
+         "trait_type":"Art",
+         "value":"black and white"
+      }
+   ]
+}

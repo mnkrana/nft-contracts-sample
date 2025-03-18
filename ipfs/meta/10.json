@@ -1,0 +1,11 @@
+{
+   "name":"Echo",
+   "description":"This is a Echo",
+   "image":"ipfs://QmWQdK2rhBFn3i2TwWCuzTsx2au4mvoF8TKBT5seo3K73p/Digital-Painting-4.jpg",
+   "attributes":[
+      {
+         "trait_type":"Art",
+         "value":"digital painting"
+      }
+   ]
+}

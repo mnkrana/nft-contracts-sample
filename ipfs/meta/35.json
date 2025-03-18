@@ -1,0 +1,11 @@
+{
+   "name":"Aria",
+   "description":"This is a Aria",
+   "image":"ipfs://QmWQdK2rhBFn3i2TwWCuzTsx2au4mvoF8TKBT5seo3K73p/Sci-Fi-4.jpg",
+   "attributes":[
+      {
+         "trait_type":"Art",
+         "value":"sci fi"
+      }
+   ]
+}

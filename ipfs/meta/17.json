@@ -1,0 +1,11 @@
+{
+   "name":"Zia",
+   "description":"This is a Zia",
+   "image":"ipfs://QmWQdK2rhBFn3i2TwWCuzTsx2au4mvoF8TKBT5seo3K73p/Floral-5.jpg",
+   "attributes":[
+      {
+         "trait_type":"Art",
+         "value":"floral"
+      }
+   ]
+}

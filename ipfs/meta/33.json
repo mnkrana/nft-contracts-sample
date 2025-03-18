@@ -1,0 +1,11 @@
+{
+   "name":"Isla",
+   "description":"This is a Isla",
+   "image":"ipfs://QmWQdK2rhBFn3i2TwWCuzTsx2au4mvoF8TKBT5seo3K73p/Sci-Fi-2.jpg",
+   "attributes":[
+      {
+         "trait_type":"Art",
+         "value":"sci fi"
+      }
+   ]
+}

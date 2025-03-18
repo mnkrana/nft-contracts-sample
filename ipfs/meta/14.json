@@ -1,0 +1,11 @@
+{
+   "name":"Rhea",
+   "description":"This is a Rhea",
+   "image":"ipfs://QmWQdK2rhBFn3i2TwWCuzTsx2au4mvoF8TKBT5seo3K73p/Floral-2.jpg",
+   "attributes":[
+      {
+         "trait_type":"Art",
+         "value":"floral"
+      }
+   ]
+}
