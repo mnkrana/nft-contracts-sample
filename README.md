@@ -61,3 +61,10 @@ Deploy and verify
 ```
 yarn hardhat deploy --network puppy
 ```
+
+### Puppynet
+
+- Contract Address : 0xDB929853F31f9cfccF753A2Cec27c6A37c9D8bFa
+- https://puppyscan.shib.io/address/0xDB929853F31f9cfccF753A2Cec27c6A37c9D8bFa
+- Check all minted tokens here
+- https://puppyscan.shib.io/token/0xDB929853F31f9cfccF753A2Cec27c6A37c9D8bFa
