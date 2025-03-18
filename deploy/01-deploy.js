@@ -1,5 +1,5 @@
 const { network } = require("hardhat");
-const { verify } = require("../utils/verify");
+const { verify } = require("./utils/verify");
 require("dotenv").config();
 require("hardhat-deploy");
 
