@@ -7,6 +7,10 @@
   "author": "Mayank <mnk.rana@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "hardhat": "^2.22.19"
+    "@nomicfoundation/hardhat-verify": "^2.0.13",
+    "@solarity/hardhat-gobind": "^1.2.2",
+    "dotenv": "^16.4.7",
+    "hardhat": "^2.22.19",
+    "hardhat-deploy": "^1.0.1"
   }
 }
